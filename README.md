@@ -40,8 +40,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryancantidio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=ff7a00&icon_color=ff7a00&text_color=9ca3af" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancantidio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=ff7a00&text_color=9ca3af" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bryancantidio&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <br/><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bryancantidio&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 <!--
 **bryancantidio/bryancantidio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
